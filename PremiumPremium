@@ -1,0 +1,25 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sports1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Sports2
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/92551ae7481140949bc8deec780d0207/index3_1.m3u8
+#EXTINF:-1,Sports3
+https://edge5.xmediaget.com/hls-live/xmlive/_definst_/4580151/4580151.m3u8?refId=1
+#EXTINF:-1,BeinSports
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qvDO6hJb2r_p8R-dDGVqEYkUYbImoQi6Ko24tJU6DyWDXll0jdyf3QOeZfpHZsHxgMM3CGGJYEmQSjv4a8wyuw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1,BeinSports2
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Ds7pB_AbrUZYIEfSIzdfmf1wO8U0-aa6XVAqzO2yqchkfNUR6GBFGe6EOENh35RAQb61XtBOGKXuhk9rcTiPCg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1,BeinSports3
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iOmQ9o040qpJA3y87FtjwIrTMx54PJzK_kK3lZSI8Q7J_X35Nfgc1aI5RyGNFFDI2CocyEQX7ohiS1lynD3PLg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1,Espn Brasil
+https://daddylive.club/stream/stream-81.php
+#EXTINF:-1,Sports4
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
+#EXTINF:-1,Sports5
+https://bucketdaily01.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1,Sportv 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sports6
+https://bucketdaily01.s3.eu-west-3.amazonaws.com/1/1.m3u8
